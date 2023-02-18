@@ -1,0 +1,103 @@
+div.transparent {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+div.transparent {
+  opacity: 0.5;
+}
+div.gal{
+  background-image: url(assets/ourvalue.jpg);
+  background-size: cover;
+}
+
+
+#hovers{
+  padding-bottom: 10px;
+}
+#hovers {
+  background: 
+     linear-gradient(90deg, currentColor calc(100%/3), transparent 0 calc(200%/3), currentColor 0) 
+     var(--d, 0%) 100% /300% 2px 
+    no-repeat;
+  transition:0.5s;
+ 
+}
+#hovers:hover {
+  --d: 100%;
+  color: #c03;
+}
+
+div.zoom:hover {
+  filter: brightness(30%);
+  transform: scale(1.5);
+}
+
+#content {
+  -webkit-filter: brightness(1);
+filter: brightness(1);
+}
+
+.water{
+  float: right;
+  height:150px;
+  width:630px;
+}
+.pro{
+  font-size:15px;
+  color: rgb(112, 108, 108);
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-top: 150px;
+  border: 0;
+}
+  div.capt{
+   
+    padding-top:150px;
+    padding-left:80px;
+    
+  }
+  
+
+div.btn.btn-custom-sm {
+  border-radius: 0;
+  color:rgba(90,96,159,48);
+  border:1px solid rgba(90,96,159,48);
+  height:35px;
+  width:130px;
+  
+}
+div.btn.btn-custom-sm:hover {
+    color: #f9f7f4;
+    background-color: rgba(90,96,159,48);
+    border-color:rgba(90,96,159,48);
+
+}
+div.view{
+  padding-left:60px;
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
+div.request{
+  padding-top: 60px;
+  padding-right: 15px;
+}
+
+div.progress-bar{
+  background-color:white;
+  width:100%;
+  height:20px;
+}
+div.progress-bar div{
+  height: 20px;
+ width:0%;
+ background-color: rgb(25, 108, 198);
+}
+div.division{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div.progression{
+   animation: progression 1s linear forwards;
+}
+@keyframes progression{
+  100%{
+    width:70%;
+  }
+}

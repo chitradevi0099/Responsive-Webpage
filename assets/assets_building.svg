@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 672.5 533.4" style="enable-background:new 0 0 672.5 533.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#050606;}
+	.st1{fill:#B5B4D5;}
+	.st2{fill:#5A5EA1;}
+	.st3{opacity:0.26;fill:#EEEEEE;enable-background:new    ;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{fill:url(#Path_1544_1_);}
+	.st6{fill:#192870;}
+	.st7{fill:#FFFFFF;}
+	.st8{opacity:0.16;}
+	.st9{fill:url(#Path_1546_1_);}
+	.st10{fill:url(#Path_1547_1_);}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st12{fill:#5A5EA1;stroke:#5A5EA1;stroke-miterlimit:10;}
+	.st13{fill:#2B2D62;}
+	.st14{fill:#8A7565;}
+	.st15{fill:none;stroke:#000000;}
+</style>
+<g id="Group_471" transform="translate(-1127.708 -1094.712)" class="st8">
+	<g id="Group_471-2" transform="translate(1378.109 1239.335)">
+		
+			<linearGradient id="Path_1546_1_" gradientUnits="userSpaceOnUse" x1="-901.7604" y1="228.7631" x2="-900.7604" y2="228.7631" gradientTransform="matrix(81.1219 0 0 -326.061 73831.7656 74753.75)">
+			<stop  offset="0" style="stop-color:#AEB0B3"/>
+			<stop  offset="1" style="stop-color:#818386"/>
+		</linearGradient>
+		<path id="Path_1546" class="st9" d="M254.8,326.1V102.8L173.7,0v319.2h81.1"/>
+		
+			<linearGradient id="Path_1547_1_" gradientUnits="userSpaceOnUse" x1="-899.439" y1="228.1467" x2="-898.791" y2="228.1467" gradientTransform="matrix(58.155 0 0 -228.494 52777.4922 52318.4688)">
+			<stop  offset="0" style="stop-color:#818386"/>
+			<stop  offset="1" style="stop-color:#AEB0B3"/>
+		</linearGradient>
+		<path id="Path_1547" class="st10" d="M56.4,302.6l1.8-228.5l-57,74.1L0,302.1L56.4,302.6z"/>
+	</g>
+	<path id="Path_1548" class="st11" d="M1127.7,1626.6h61v-65.9h264.5v65.9h-151.9l13.1-225l138.8-0.5v128.7l-38.2-4.1l-15.1-226.6
+		l53.3-15.4v-186.4l96.6,55.6l7,450l-34.2,3.1l7-354.3l102.6-2.1l24.1,333.7l-42.2,8.2l-12.1-104l132.8,26.8l16.1,112.3h49.2"/>
+</g>
+</svg>
